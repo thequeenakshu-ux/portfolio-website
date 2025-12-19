@@ -13,7 +13,7 @@ body {
 
 .header {
     background-color: #0a2540;
-    color: #f0f0f0;
+    color: #333;
     padding: 40px 20px;
     text-align: center;
 }
@@ -40,7 +40,7 @@ body {
 
 .section h2 {
     margin-bottom: 15px;
-    color: #DADADA;
+    color: #333;
 }
 
 .skills li {
@@ -55,5 +55,5 @@ body {
     text-align: center;
     padding: 20px;
     font-size: 0.9rem;
-    color: #DADADA;
+    color: #333;
 }
