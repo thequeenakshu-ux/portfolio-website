@@ -23,4 +23,4 @@ https://<thequeenakshu-ux>.github.io
 
 ## 🔹 Contact
 - Email: akshatha.devv@gmail.com
-- GitHub: https://github.com/<thequeenakshu-ux>
+- GitHub: https://github.com/thequeenakshu-ux
