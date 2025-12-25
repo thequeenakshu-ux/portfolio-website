@@ -1,16 +1,18 @@
+
+
 # Personal Portfolio Website
 
-This repository contains my **personal portfolio website**, built using
-**HTML and CSS**, to present my profile as an aspiring **Software Engineer**.
+A simple personal portfolio website to introduce myself, my skills, and contact details.
 
-## 🔹 About
-- Clean and minimal design
-- Recruiter-friendly layout
-- Focused on fundamentals and clarity
+## Technologies Used
+- HTML
+- CSS
+- Basic JavaScript
 
-## 🔹 Tech Stack
-- HTML5
-- CSS3
+## What I Learned
+- Structuring webpages using div and class
+- Styling using CSS
+- Adding basic interaction using JavaScript
 
 ## 🔹 Purpose
 This portfolio is created to:
